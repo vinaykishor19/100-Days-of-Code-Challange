@@ -8,7 +8,7 @@
 
 **Link to work:** [Calculator App](https://vinaykishor19.github.io/calculator/)
 
-### Day 1: October 3, 2022 [Calculator App]
+### Day 1: October 3, 2022 [Responsive Landing Page]
 
 **Today's Progress**: Learned Media queries and responsive design in CSS
 

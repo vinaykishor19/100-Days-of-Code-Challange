@@ -15,3 +15,11 @@
 **Thoughts:** it was easier to do on codedamn playground and their guide helps a lot.
 
 **Link to work:** [Responsive Landing Page](https://vinaykishor19.github.io/Responsive-landing-page/)
+
+### Day 2: October 4, 2022 [BookList App]
+
+**Today's Progress**: Learned JavaScript JSON and some JavaScript libraries
+
+**Thoughts:** Javascript is pretty Amazing language you can do a lot of stuff with it.
+
+**Link to work:** [BookList App](https://vinaykishor19.github.io/BookList-App.github.io/)

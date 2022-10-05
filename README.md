@@ -23,3 +23,11 @@
 **Thoughts:** Javascript is pretty Amazing language you can do a lot of stuff with it.
 
 **Link to work:** [BookList App](https://vinaykishor19.github.io/BookList-App.github.io/)
+
+### Day 3: October 5, 2022 [Meme-Generator App]
+
+**Today's Progress**: Learned using api and fetching data from an Api
+
+**Thoughts:** There are a lot of stuff you can do with the help of such Api.
+
+**Link to work:** [Meme-Generator App](https://vinaykishor19.github.io/Meme-Generator/)

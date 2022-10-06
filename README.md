@@ -31,3 +31,11 @@
 **Thoughts:** There are a lot of stuff you can do with the help of such Api.
 
 **Link to work:** [Meme-Generator App](https://vinaykishor19.github.io/Meme-Generator/)
+
+### Day 4: October 6, 2022 [PokeDex App]
+
+**Today's Progress**: Learned using api and using searching algorithm
+
+**Thoughts:** imlimenting an Api is a really confusing task at first but it'll become easy after sometime
+
+**Link to work:** [PokeDex App](https://vinaykishor19.github.io/PokeDex/)

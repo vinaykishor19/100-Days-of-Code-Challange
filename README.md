@@ -39,3 +39,11 @@
 **Thoughts:** imlimenting an Api is a really confusing task at first but it'll become easy after sometime
 
 **Link to work:** [PokeDex App](https://vinaykishor19.github.io/PokeDex/)
+
+### Day 4: October 6, 2022 [Expense-Tracker App]
+
+**Today's Progress**: Learned using local browser storage and saving data in it
+
+**Thoughts:** its a very simple project only used basic javascript concepts.
+
+**Link to work:** [Expense-Tracker App](https://vinaykishor19.github.io/Expense-Tracker-App/)

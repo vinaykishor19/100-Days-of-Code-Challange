@@ -47,3 +47,11 @@
 **Thoughts:** its a very simple project only used basic javascript concepts.
 
 **Link to work:** [Expense-Tracker App](https://vinaykishor19.github.io/Expense-Tracker-App/)
+
+### Day 6: October 8, 2022 [Color Flipper App]
+
+**Today's Progress**: Learned using loops and Math functions in JavaScript
+
+**Thoughts:** its a very simple and basic project in which we can change background color randomly.
+
+**Link to work:** [Color Flipper App](https://vinaykishor19.github.io/Color-Flipper/hex.html)

@@ -55,3 +55,12 @@
 **Thoughts:** its a very simple and basic project in which we can change background color randomly.
 
 **Link to work:** [Color Flipper App](https://vinaykishor19.github.io/Color-Flipper/hex.html)
+
+### Day 7: October 9, 2022 [Huddle Landing Page]
+
+**Today's Progress**: learned Advanced CSS grid and flex property
+
+**Thoughts:** its a simple landing page using basic HTTML and CSS.
+
+**Link to work:** [Huddle Landing Page](https://vinaykishor19.github.io/landingpage.github.io/)
+

@@ -71,3 +71,12 @@
 **Thoughts:** its a simple Stone  Paper Scissors game using basic HTTML, CSS, JavaScript.
 
 **Link to work:** [Stone Paper Scissors Game](https://vinaykishor19.github.io/STPgame.github.io/)
+
+
+### Day 9: October 11, 2022 [Hangman Game]
+
+**Today's Progress**: learned Using React and React hooks.
+
+**Thoughts:** its a simple Stone Hangman Game Using React.
+
+**Link to work:** [Hangman Game](https://harmonious-brioche-2df1aa.netlify.app/)

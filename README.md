@@ -64,3 +64,10 @@
 
 **Link to work:** [Huddle Landing Page](https://vinaykishor19.github.io/landingpage.github.io/)
 
+### Day 8: October 10, 2022 [Stone Paper Scissors Game]
+
+**Today's Progress**: learned Javascript ES6 properties.
+
+**Thoughts:** its a simple Stone  Paper Scissors game using basic HTTML, CSS, JavaScript.
+
+**Link to work:** [Stone Paper Scissors Game](https://vinaykishor19.github.io/STPgame.github.io/)

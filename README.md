@@ -72,7 +72,6 @@
 
 **Link to work:** [Stone Paper Scissors Game](https://vinaykishor19.github.io/STPgame.github.io/)
 
-
 ### Day 9: October 11, 2022 [Hangman Game]
 
 **Today's Progress**: learned Using React and React hooks.
@@ -80,3 +79,11 @@
 **Thoughts:** its a simple Stone Hangman Game Using React.
 
 **Link to work:** [Hangman Game](https://harmonious-brioche-2df1aa.netlify.app/)
+
+### Day 10: October 12, 2022 [Intro-component-with-sign-up-form]
+
+**Today's Progress**: learned creating forms using javascript.
+
+**Thoughts:** its a basic sign-up form using HTML, CSS, JavaScript.
+
+**Link to work:** [Intro-component-with-sign-up-form](https://vinaykishor19.github.io/Intro-component-with-sign-up-form/)

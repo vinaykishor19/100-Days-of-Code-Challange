@@ -87,3 +87,11 @@
 **Thoughts:** its a basic sign-up form using HTML, CSS, JavaScript.
 
 **Link to work:** [Intro-component-with-sign-up-form](https://vinaykishor19.github.io/Intro-component-with-sign-up-form/)
+
+### Day 11: October 14, 2022 [NFT-preview-card-component]
+
+**Today's Progress**: learned CSS grid advance properties.
+
+**Thoughts:** its a basic NFT preview card form using HTML, CSS,.
+
+**Link to work:** [NFT-preview-card-component](https://vinaykishor19.github.io/NFT-preview-card-component/)

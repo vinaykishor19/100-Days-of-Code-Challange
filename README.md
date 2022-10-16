@@ -95,3 +95,11 @@
 **Thoughts:** its a basic NFT preview card form using HTML, CSS,.
 
 **Link to work:** [NFT-preview-card-component](https://vinaykishor19.github.io/NFT-preview-card-component/)
+
+### Day 12: October 15, 2022 [Todo List App]
+
+**Today's Progress**: learned using map, filter, find function in react.
+
+**Thoughts:** its a simple todo list app in react.
+
+**Link to work:** [Todo List App](https://eloquent-capybara-98f2dc.netlify.app/)
